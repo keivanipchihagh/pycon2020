@@ -2,7 +2,7 @@
 Natural Language Processing (NLP) in Python tutorial given for PyCon 2020 remote conference.
 
 Link to video: https://youtu.be/vyOgWhwUmec
-
+ 
 ## Resources
 
 Here is a list of resources helpful for items covered throughout the video
